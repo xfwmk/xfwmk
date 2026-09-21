@@ -23,8 +23,13 @@
 
 ###
 
+<h3 align="left">Profiles</h3>
+
 <a href="https://steamcommunity.com/id/opelascona/">
   <img src="https://cdn.simpleicons.org/steam" width="40" alt="Steam">
 </a>
 
-[steam](https://steamcommunity.com/id/opelascona/)
+<a href="https://guns.lol/opelascona">
+  <img src="https://guns.lol/favicon.ico" width="40" alt="guns.lol">
+</a>
+
