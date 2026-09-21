@@ -22,7 +22,3 @@
 </div>
 
 ###
-
-<div align="left">
-  <img height="200" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F5d%2F41%2F29%2F5d4129cf10e8442d0f95dd45e9e45354.jpg&f=1&nofb=1&ipt=8126f7b36ceb9a1c47d5271c7817c62bb0b27d073e9ff6d47f2e79d52e019b2e"  />
-</div>
