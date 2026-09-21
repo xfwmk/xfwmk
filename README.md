@@ -23,7 +23,7 @@
 
 ###
 
-<h3 align="left">Profiles</h3>
+<h3 align="left">♣ Profiles</h3>
 
 <a href="https://steamcommunity.com/id/opelascona/">
   <img src="https://cdn.simpleicons.org/steam" width="40" alt="Steam">
