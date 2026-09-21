@@ -24,4 +24,4 @@
 ###
 
 
-<h1 align="center">[perfil de steam](https://steamcommunity.com/id/opelascona/)</h1>
+<h1 align="center">[steam]https://steamcommunity.com/id/opelascona/)</h1>
