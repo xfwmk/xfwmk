@@ -23,6 +23,8 @@
 
 ###
 
-[![Steam](https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg)](https://steamcommunity.com/id/opelascona/)
+<a href="https://steamcommunity.com/id/opelascona/">
+  <img src="https://cdn.simpleicons.org/steam" width="40" alt="Steam">
+</a>
 
 [steam](https://steamcommunity.com/id/opelascona/)
