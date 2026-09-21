@@ -12,7 +12,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg-plain.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F027%2F127%2F463%2Foriginal%2Fjavascript-logo-javascript-icon-transparent-free-png.png&f=1&nofb=1&ipt=3a0c869d4fbae914bf90f9f20393a4759bc9aaa338daf5cc77d8816ac036960c" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" height="40" alt="bash logo"  />
   <img width="12" />
