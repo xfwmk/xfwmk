@@ -26,7 +26,7 @@
 <h3 align="left">♣ Profiles</h3>
 
 <a href="https://steamcommunity.com/id/opelascona/">
-  <img src="https://cdn.simpleicons.org/steam" width="40" alt="Steam">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F881398.png&f=1&nofb=1&ipt=6699509f2f039536ed69fdfa6748127f4d456739a8cf4bb6abf4d75479ca4fd0" width="40" alt="Steam">
 </a>
 <a href="https://guns.lol/opelascona">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fr2.guns.lol%2Fguns_logo.png&f=1&nofb=1&ipt=54cc48074f398ca05ea6d049e7820a316c5b999e55c34468b19e05557bb0d1e7" width="55" alt="guns.lol">
