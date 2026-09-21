@@ -28,8 +28,7 @@
 <a href="https://steamcommunity.com/id/opelascona/">
   <img src="https://cdn.simpleicons.org/steam" width="40" alt="Steam">
 </a>
-
 <a href="https://guns.lol/opelascona">
-  <img src="[https://guns.lol/favicon.ico](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1694100395411316736%2FOuDKCxCD_400x400.jpg&f=1&nofb=1&ipt=d304700f1982abf5d23e2be5c4ad7818999a0088492e558f0245bec25868ed9d)" width="40" alt="guns.lol">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fr2.guns.lol%2Fguns_logo.png&f=1&nofb=1&ipt=54cc48074f398ca05ea6d049e7820a316c5b999e55c34468b19e05557bb0d1e7" width="40" alt="guns.lol">
 </a>
 
