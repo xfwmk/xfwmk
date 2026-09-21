@@ -23,5 +23,6 @@
 
 ###
 
+[![Steam](https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg)](https://steamcommunity.com/id/opelascona/)
 
 [steam](https://steamcommunity.com/id/opelascona/)
