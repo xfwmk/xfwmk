@@ -3,11 +3,11 @@
 
 ###
 
-<h1 align="center">Bienvenido a Mi Perfil</h1>
+<h1 align="center">xfwmk - opel - kian</h1>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages & tools</h3>
 
 ###
 
